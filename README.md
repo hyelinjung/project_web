@@ -1,5 +1,5 @@
 # :gift:스프링부트로 제작한 웹 쇼핑몰
-### :pencil2:[회고록 작성 블로그](https://linlin2.tistory.com/1,"티스토리")
+### :pencil2:[회고록 작성 블로그](https://linlin2.tistory.com/1)
 ## :pencil2:개발환경
 + IntelliJ
 
